@@ -1,4 +1,3 @@
-from unicodedata import name
 import jenkins
 class buildjobs:
     def info():
@@ -35,16 +34,16 @@ print("Welcome to the jenkins monitoring tool")
 items=input("please select an option: 1.Jobs 2.plugin information 3.node status 4.userinformation: ")
 if items=="1": 
     print (buildjobs.info())
-elif item=="2":
+"""elif items=="2":
     plugins()
-elif item=="3":
+elif items=="3":
     nodes()
-elif viewstatus=="4":
+elif items=="4":
     viewuser()
 else: print("wrong choice")
 
 
-"""def create_newjob():
+def create_newjob():
     def build_info():
     
 
