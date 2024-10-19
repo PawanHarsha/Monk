@@ -1,8 +1,8 @@
 # Monkjenk
-Monkjenk: Your CI Monitoring Solution
+Monk: Your CI Monitoring Solution
 Welcome to Monkjenk! 🚀
 
-Monkjenk is a powerful Continuous Integration (CI) monitoring tool designed to provide you with comprehensive insights into your CI/CD processes. With Monkjenk, you can seamlessly track multiple Jenkins servers and Git projects, enabling you to monitor builds, deployments, and workflows with ease.
+Monk is a powerful Continuous Integration (CI) monitoring tool designed to provide you with comprehensive insights into your CI/CD processes. With Monkjenk, you can seamlessly track multiple Jenkins servers and Git projects, enabling you to monitor builds, deployments, and workflows with ease.
 
 Key Features
 Multi-Server Tracking: Monitor multiple Jenkins servers from a single dashboard, giving you a holistic view of your CI/CD pipelines.
