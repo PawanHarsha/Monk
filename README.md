@@ -1,4 +1,4 @@
-# Monkjenk
+# Monk
 Monk: Your CI Monitoring Solution
 Welcome to Monk! 🚀
 
